@@ -1,2 +1,2 @@
-# LOLPlugins
+# LOL
 英雄联盟资源。
